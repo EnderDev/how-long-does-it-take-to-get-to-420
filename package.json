@@ -1,0 +1,23 @@
+{
+  "name": "how-long-does-it-take-to-get-to-420",
+  "version": "1.0.0",
+  "description": "🍁 How many tries does it take to get to 420?",
+  "main": "420.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnderDev/how-long-does-it-take-to-get-to-420.git"
+  },
+  "author": "EnderDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnderDev/how-long-does-it-take-to-get-to-420/issues"
+  },
+  "homepage": "https://github.com/EnderDev/how-long-does-it-take-to-get-to-420#readme",
+  "dependencies": {
+    "cli-spinners": "^2.1.0",
+    "log-update": "^3.2.0"
+  }
+}
